@@ -1,0 +1,1 @@
+honestly this chapter is getting a little boring maybe ill do the other distributions later

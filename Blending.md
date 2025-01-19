@@ -1,0 +1,5 @@
+* Mixing two components with different viscosities/densities such that the the mixture wont change with time
+* blending operations are of low viscosity and high viscosity - less than or above 50,000 cP (50PaS)
+* The above differentiation is used in determining the types of impellers required
+* low viscosity blending - running the mixer while adding the components as opposed to stopping and starting is faster, the mixing time less 5 to 10 times less this way; the higher the difference in viscosities, the more power will be required, also the higher the final viscosity, the more power will be required, the larger the tank, the more power is required to obtain the same mixing, multiple impellers are often required as Z/T ratio increases (depth to width). Side entering mixers are normally more cost effective than top entering mixers
+* [[High viscosity blending]]

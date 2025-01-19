@@ -1,0 +1,2 @@
+> Classification of electro analytical methods - potentiometry, conductometry, pH-metry
+> Basic principles, electroanalytical instrumentation, application in pH metric/potentiometric/conductometric titrations, determination of pKa values and isoelectric points

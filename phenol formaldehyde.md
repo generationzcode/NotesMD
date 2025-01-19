@@ -1,0 +1,2 @@
+* novolak
+* resol

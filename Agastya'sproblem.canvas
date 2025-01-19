@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e97a37373abb2ce3","x":-380,"y":-80,"width":250,"height":60,"type":"text","text":"It shouldnt have 3 parameters"},
+		{"id":"f0e8674fd2ad4e09","x":34,"y":-131,"width":250,"height":60,"type":"text","text":"Volume should be eliminated"},
+		{"id":"46b5b2bf0c2ac4b8","x":-9,"y":115,"width":250,"height":60,"type":"text","text":"$timespace*feed rate$"},
+		{"id":"edcab2903132a007","x":-360,"y":240,"width":250,"height":60,"type":"text","text":"What is the timespace?"},
+		{"id":"f0d6f9a2f55e7794","x":-3,"y":250,"width":250,"height":60,"type":"text","text":"Average time taken for reactant to get to output"}
+	],
+	"edges":[
+		{"id":"aa7b94fa35157c58","fromNode":"e97a37373abb2ce3","fromSide":"right","toNode":"f0e8674fd2ad4e09","toSide":"left"},
+		{"id":"e8dce31f36e077aa","fromNode":"f0e8674fd2ad4e09","fromSide":"bottom","toNode":"46b5b2bf0c2ac4b8","toSide":"top"},
+		{"id":"8bd3631a07d2f7f5","fromNode":"46b5b2bf0c2ac4b8","fromSide":"right","toNode":"edcab2903132a007","toSide":"left"},
+		{"id":"6b19571bd4d523c8","fromNode":"edcab2903132a007","fromSide":"right","toNode":"f0d6f9a2f55e7794","toSide":"left"}
+	]
+}
