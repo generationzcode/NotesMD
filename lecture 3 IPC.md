@@ -1,3 +1,7 @@
+>[!Warning]
+>Honest to god I have no clue what this was about
+
+
 ![[Pasted image 20250114111900.png]]
 
 | $\omega$ | AR    | $\phi$  | Gp  |

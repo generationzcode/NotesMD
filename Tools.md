@@ -1,0 +1,23 @@
+> We learnt so much, now we use it to make stuff
+
+- anaconda - distribution of python and R used for scientific computing
+- Tensorflow - python library for ML
+- pytorch - python library for ML used in NLP and such
+- Microsoft Cognitive Toolkit - open source toolkit for commercial grade distributed deep learning
+- keras - neural nets library in python
+- AmazonML - amazon stuff
+- Theano - allows you to define, optimize and execute mathematical expressions efficiently mostly in multi dimensional arrays
+- Ipython  - command shell for interactive python
+- Jupyter notebooks - colab stuff
+- microsoft azure AI workbench - helps DS make AI solutions on the cloud
+- Caffe - deep learning framework built with expression, speed and modularity in mind. Built at Berkely AI research
+- MAPLE - symbolic hybrid numeric system
+- REDUCE- computer algebra system in physics
+- MACSYMA,MAXIMA - computer algebra
+- Mathematica - symbolic, numeric technical computing system
+- SageMath - computer algebra
+- OpenCL, CUDA, Harlan - GPU acelerators
+- Heterogeneous computing - using a bunch of specialized processors for specialized tasks in a system
+- FPGAs - field programmable gate arrays, devices that make it easier to integrate hardware, software and frameworks alongside each other
+- Application specific integrated circuits - ASICs
+- 

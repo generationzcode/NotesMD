@@ -1,0 +1,5 @@
+- [[polyvinyl chloride]] - chloro polymer
+- [[PVDC]] - chloro polymer
+- [[polystyrene]] - acrylic polymer
+- [[Polyacrylonitriles]] - acrylic polymer
+- [[PMMA]] - acrylic

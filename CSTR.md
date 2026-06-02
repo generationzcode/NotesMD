@@ -4,6 +4,7 @@
 * A question could be phrased: find out the volume for a given duty
 * ![[Pasted image 20241213111643.png]]
 * **![[Pasted image 20241213112501.png]]
+(the above eqn of residence time is it's reciprocal...)
 * In cstr(ideal reactor model CSTR), the fluid elements spend time ranging from 0 to infinity (range of residence time ranges from 0 to infinity) with a continuous variation. V/v is the average residence time of all those fluid elements. 
 * in CSTR properties at the outlet are the properties in the bulk
 ## Variable Volume

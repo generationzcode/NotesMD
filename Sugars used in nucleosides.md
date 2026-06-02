@@ -1,0 +1,4 @@
+- ![[Pasted image 20250731105732.png]]
+- $\beta$-o-ribose, used in ribonucleic acid
+- ![[Pasted image 20250731105904.png]]
+- the other is used in deoxyribonucelic acid

@@ -1,0 +1,2 @@
+- pour your material into an open mold, wait for it to cool
+- there you have it

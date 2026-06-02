@@ -1,4 +1,3 @@
-> Distillation
 
 ![[Pasted image 20241218134359.png]]
 
@@ -11,8 +10,13 @@
 >* Distillation - technique of preferential separation of more volatile substances form less volatile substances by partial vapourization followed by condensation
 
 * [[Distillation Equipment]]
+* [[Stage processes]]
 * [[Relative volatility]]
 * [[Flash Distillation]]
 * [[Steam distillation]]
+* [[Batch Distillation]]
 * [[Continuous multistage distillation of binary mixtures]]
-* 
+* [[Distillation of multicomponent mixtures]]
+* [[Column Height and Diameter]]
+## Not in syllabus
+* [[Panchan Savarit Method]] - (wrong spelling)

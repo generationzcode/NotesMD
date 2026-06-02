@@ -1,0 +1,10 @@
+- Number of moles of liquid in the still is L, Number of moles condenses out is D
+- If the universe isn't feeling a little jittery - ![[Pasted image 20250204202912.png]]
+- where y* is the mole fraction of the equilibrium vapour. 
+- Putting in $dD = -dL$
+- ![[Pasted image 20250204214530.png]]
+- now integrating it from F moles in feed to W moles at the end (mccabe smith has W as B - bottom product, but mccabe smith doesn't have batch distillation covered in it)
+- ![[Pasted image 20250204214631.png]]
+- this y*-x poses an issue, since y* changes with x (vapour liquid equilibrium at the same temperature) - one way is to get an algebraic relation between x and y using relative volatility, another is to solve it using graphical method - using the VLE data
+- ![[Pasted image 20250204215525.png]] BKD did it this way algebraically
+- [[Problems on Batch Distillation]]

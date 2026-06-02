@@ -9,3 +9,4 @@ Prof's PPT
 * the solvent must have acceptable chain transfer characteristics and suitable melting and boiling points for the conditions of the polymerization and subsequent solvent removal step
 * Solvent choice may be influences by other factors such as flash point, cost and toxicity
 * Reactors are usually stainless steel or glass lined
+- [[Polymer Solutions]]

@@ -1,4 +1,14 @@
-### Newtons law of viscosity
+## Newtons law of viscosity
+- Two parallel plates, one at rest, the other moving at a certain speed. Gap between the plates filled with viscous fluid
+- The force required to keep the bottom plate moving at a constant speed:
+- $$\frac{F}{A} = \mu\frac{V}{Y}$$
+- Where A is area, V is velocity and Y is distance between the plates
+- For this, we assume laminar flow
+- Kinematic viscosity $v = \mu/\rho$
+## Reynolds number
+> No clue why I added this in the page
+
+
   Reynolds number physical significance
   Its the ratio of inertial to viscous forces
   $$Re = \frac{inertial \space forces}{viscous \space forces}$$

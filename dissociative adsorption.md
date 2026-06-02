@@ -1,0 +1,5 @@
+- If CO dissociates when adsorption on surface
+- two adjacent active sites are required
+- Rate of adsorption is $$R_{ad} = k_AP_{CO}C_v^2-k_{-A}C_{O.S}C_{C.S}$$
+- There's an entire derivation for this at R_{ad}, so here's the final form:$$C_{O.S} =\frac{(K_AP_{CO})^{0.5}C_t}{1+2(K_AP_{CO})^{0.5}}$$
+- the derivation relies about the fact that $C_{C.S} = C_{O.S}$

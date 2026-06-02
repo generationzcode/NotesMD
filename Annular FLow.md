@@ -1,0 +1,14 @@
+## Annular flow
+- $$\frac{\mu}{r}(\frac{\delta}{r\delta r}(r\frac{\delta v_z}{\delta r})) = \frac{\delta P}{\delta z}-\rho g_z = C_1$$
+- you can solve this by taking the two boundary conditions being no slip at the walls OR taking one no slip condition and knowing where the velocity gradient is 0.
+- $$\frac{C_1r^2}{2\mu}+C_2 = r\frac{\delta v_z}{\delta r}$$
+- $$C_1r/2\mu+C2/r = \frac{\delta v_z}{\delta r}$$
+- $$\frac{C_1r^2}{4\mu}+C_2\ln r +C3= v_z$$
+- $$C_1R^2/4\mu+C_2lnR + C_3= 0$$
+- $$C_1(R_i^2-R^2)/4\mu+C_2ln(R_i/R) = 0$$
+- $$C_2 = \frac{C_1(R_i^2-R^2)}{4\mu \ln (R_i/R)}$$
+- so velocity profile in annulus:
+- $$C_1r^2/4\mu+\frac{C_1(R_i^2-R^2)}{4\mu \ln (R_i/R)}lnr -C_1R^2/4\mu-\frac{C_1(R_i^2-R^2)}{4\mu \ln (R_i/R)}lnR= v_z$$
+- to find where the velocity gradient is 0:
+- $$\sqrt \frac{(R^2-R_i^2)}{2\ln (R_i/R)} = R_{\frac{\delta v_z}{\delta r}=0}$$
+- 

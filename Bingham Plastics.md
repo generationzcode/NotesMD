@@ -1,0 +1,2 @@
+- $$\tau_{yx} = -\mu (\frac{\delta v_x}{\delta y})\frac{+}{} \tau_0$$
+- 

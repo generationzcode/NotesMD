@@ -38,7 +38,7 @@ you know how to do this
 * similarly can be written for y and z elements
 * phi actually contains both convective and molecular transport elements
 * $$\frac{\delta (\rho v_x)}{\delta t} = -(\frac{\delta (\tau_{yx})}{\delta y}+\frac{\delta (\tau_{xx})}{\delta x}+\frac{\delta (\tau_{zx})}{\delta z})-(\frac{\delta (\rho v_x v_y)}{\delta y}+\frac{\delta (\rho v_x v_x)}{\delta x}+\frac{\delta (\rho v_x v_z)}{\delta z})-\frac{\delta P}{\delta x}+\rho g_x$$
-* > Equation of motion should actually be called equation of momentum/force. It has convective forces, conductive forces and external forces (pressure and gravity)
+> Equation of motion should actually be called equation of momentum/force. It has convective forces, conductive forces and external forces (pressure and gravity)
 ## Tau
 * It's stress. Very difficult to explain without a diagram, but I forgot the graphics tablet in my room. 
 * IN 2D:

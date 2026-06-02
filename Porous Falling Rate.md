@@ -1,0 +1,10 @@
+- This is considerably less difficult to understand than non porous
+- ![[Pasted image 20250408190318.png]]
+- This is a graph of how the moisture content differs across the slab for a porous solid
+- Theres a lot of useless theory to how the surface gets less wet over time and finally reaches the falling rate period. I think my readers are smart enough to understand that drying *means* the solid will dry
+- ![[Pasted image 20250408190500.png]]
+- This is what the falling rate period should look like
+- ![[Pasted image 20250408190541.png]]
+- This is pretty much the definition for rate...
+- After this, it's pretty straighforward to integrate and get time taken for the falling rate period
+- So easy, that I won't waste any more time on it

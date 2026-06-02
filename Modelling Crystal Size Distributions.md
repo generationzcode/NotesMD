@@ -1,0 +1,3 @@
+- Use kinetic monte carlo method - normally done
+- Why cant we use differential equations?
+- to use a DE, we first have values for nuclei and solutes, but how do you actually model the distribution? all the different nuclei that are supposed to be growing but we have no way to track every one. We could assume normal distribution and assign

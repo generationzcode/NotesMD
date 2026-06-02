@@ -1,4 +1,4 @@
-b* At the beginning some particles enter the filter pores and get imobilized
+* At the beginning some particles enter the filter pores and get imobilized
 * the larger particles get clogged and the smaller particles are unable to get through
 * This is the cake thats formed
 ## Principles of filtration

@@ -1,0 +1,4 @@
+- They have a bunch of roles within the organization: [[commissioner of food safety]], [[designated officer]], [[food safety officer]], [[food analyst]], 
+- https://fssai.gov.in/upload/uploadfiles/files/FSS_Gazete_Rules_2011%20comendium.pdf
+- the above is the document with everything
+- It doesn't have anything on what forms the business operators have to fill except nominations and appeals

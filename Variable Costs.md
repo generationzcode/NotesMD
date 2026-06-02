@@ -1,0 +1,4 @@
+- Raw material costs - < Insert information about how to go about actually finding such costs >
+- Energy Input costs - The book says this stuff is tough to find, but it seems to me as the simplest. Any location you're setting up the plant in will have standard rates for electricity and fuel supply. < Specificity later on >
+- Royalty and license payments - Due to tech transfer, software being used, etc. 
+- Packaging and transport - This is not really considered too much when considering economics of a plant as it's added on later to the customer for packing and transport

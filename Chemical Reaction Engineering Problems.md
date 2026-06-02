@@ -1,4 +1,4 @@
-
+![[Pasted image 20250121112357.png]]
 >[!Danger] Question
 >A-> B is carried out in a CSTR, $F_{AO} = 0.4gmol/s$, calculate the volume necessary to get 80% conversion in CSTR, or spacetime for 80% conversion
 >
@@ -26,3 +26,30 @@
 
 >[!done] Solution 
 >60%
+
+
+>[!Danger] Levenspiel 3.24
+
+>[!Done]
+	
+	import matplotlib.pyplot as plt
+	CA = [1,2,4,6,7,9,12]
+	ra = [0.06,0.1,0.25,1.0,2.0,1.0,0.5]
+	def interpolate_kewl(op):
+	    for v,i in enumerate(CA):
+	        if i>=op:
+	            p1 = [CA[v-1],ra[v-1]]
+	            p2 = [CA[v],ra[v]]
+	            break
+	    slope = (p2[1]-p1[1])/(p2[0]-p1[0])
+	    return slope*(op-p1[0])+p1[1]
+	arr_eval = np.linspace(1,12,100)
+	time_spend = 0
+	time = []
+	for i in arr_eval:
+	    time_spend+=(11/100)/interpolate_kewl(i)
+	    time.append(time_spend)
+	plt.plot(arr_eval,time)
+	plt.show()
+
+![[Pasted image 20250121100913.png]]

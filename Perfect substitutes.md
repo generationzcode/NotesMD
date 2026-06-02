@@ -1,0 +1,3 @@
+- Okay these are pretty interesting
+- We have two goods that are perfect substitutes of each other, so indifference lines are 45 degrees. This makes any budget line where the two prices are not equal to have a corner solution for the optimal utility:
+- ![[Pasted image 20260116235716.png]]

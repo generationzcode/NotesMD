@@ -1,0 +1,11 @@
+> OMG! That greed fueling machine making one man rich and everyone else suffer is inefficient? No. Way. 
+
+- Okay, so there's something known as a producer surplus, and something else known as a consumer surplus. These are all topics I'll probably write about at length at a later date and come back and (hopefully) link them here.
+- So the consumer surplus says to the people who were willing to buy a certain good at a higher price than the set price, that they're getting a great deal. We just get the area in the curve between all the prices at higher quantities and the price line, this is the amount of money, the consumers are saving.
+- The producer surplus says to the producer, that look, there's a LOT of merch you're selling at a price that makes an insane profit and some merch that's just, kind of, breaking even (in the condition that marginal cost equals price), so you're getting an awesome deal there! It's the area between the price line and the marginal cost curve.
+- Now, looking at perfect competition, this total surplus (consumer+producer) is maximized
+- For a monopoly, it's far less than the maximum. The difference between the total surplus of the monopoly conditions and if it were a competitive market (Average Revenue = Marginal Cost) is known as the Dead Weight Loss (DWL)
+- In the diagram below, the DWL is clearly B+C
+![[Pasted image 20260126015022.png]]
+- There is some stuff on how a monopoly isn't pareto efficient, but this is another thing we need to delve deep into before commenting on it
+- I'd also like to add to the above point with bewilderment on how they can break the rules of selling stuff when they feel like it to explain stuff. How is a monopoly pareto inefficient simply because if we sell one extra unit to someone else at a any price above the MC we get extra profit? If we do that, the ENTIRE LOAD of stuff we're selling to people should be sold at that price... But yeah sure, neat little trick to show how everyone is benefited by changing something. IF THAT WAS THE CASE, WOULDN'T THE COMPANY ANYWAYS DO IT? Maybe I'm understanding some aspect incorrectly, I honestly feel like a monopoly situation is pareto efficient. 

@@ -1,0 +1,14 @@
+- Now when we apply, everything before this will make sense
+## Tube flow away from wall
+- $$\tau_{rz}^t = \rho\kappa_1^2(R-r)^2(-\frac{dv_z}{dr})$$
+- $s=R-r$
+- $$\tau_{rz}^t = \rho\kappa_1^2(s)^2(\frac{dv_z}{ds})$$
+- From EoM:
+- $$\frac{P_0-P_l}{L} = \frac{1}{r}\frac{d}{dr}(r\tau_{rz})$$
+- Some odd jump prandtl made to get:
+	- $$\frac{(P_0-P_l)R}{L}\frac r R = \tau_0(1-\frac{s}{R})$$
+- substituting and solving:
+- $$\overline{v_z}-\overline {v_{z,1}} = \frac{1}{\kappa_1}\sqrt\frac{\tau_0}{\rho}\ln{\frac s {s_1}}$$
+- Now taking in dimensionless variables $$v^* = \sqrt\frac{\tau_{rz}}{\rho}$$, $$v^+ = \frac{\overline {v_x}}{v^*}$$ $$s^+ = \frac{sv^*\rho}{\mu}$$
+- $$v^+-v_{1}^+ = \frac{1}{\kappa_1}\ln{\frac {s^+} {s_1^+}}$$
+- This is all good and well for away from wall, but what about near the walls? BSL is genuinely shallow here, so I'll use the class notes to make up

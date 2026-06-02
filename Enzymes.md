@@ -1,0 +1,38 @@
+- They increase the rate of reaction
+- They dont make infeasible ($\Delta G>0$) reactions feasible
+- They lower or change the transition state as to make it less energy
+- They use lock and key or induced fit methods for this so they have high specificity
+- These refer to the substrate being bound to the surface of the enzyme due to the structures being complementary
+- In the induced fit mechanism, the enzyme might undergo some modification to fit the substrates
+## Nomenclature
+- All have -ase suffix
+- Nomenclature is as per the reaction taking place
+- Oxido-reductase
+- Hydrolase (lipase)
+- Lyase - for breaking molecules down
+- LIgase - for building them up (polymerase)
+- Transferase - to transfer functional groups from molecule to molecule
+## Kinetics
+- The reactions:
+- $$A+E<=> A.E$$
+- $$A.E\rightarrow P+E$$
+- The forward reaction for the first one has rate constant $k_{1}$ and the backward has $k_{-1}$
+- The rate constant for the second reaction is $k_2$
+- with this information we can derive the kinetics:
+- $$k_1[A][E] = k_{-1}[A.E]$$
+- $$\frac{k_{-1}}{k_1} = \frac{[A][E]}{[A.E]} = k_m$$
+- Enzyme balance:
+- $$[E_0] = [E]+[A.E]$$
+- $$[E_0] = [E]+\frac{[A][E]}{k_m}$$
+- $$\frac{[E_0]}{1+\frac{[A]}{k_m}} = [E]$$
+- $$[A.E] = \frac{[A][E_0]}{k_m+[A]}$$
+- $$Rate = k_2[E.A]$$
+- $$Rate = \frac{k_2[A][E_0]}{k_m[A]}$$
+- $$v = \frac{v_{max}[A]}{k_m+[A]}$$
+- $$v_{max} = k_2[E_0]$$
+- The above is the michaelis menten equation
+- At Briggs Haldane condition (steady state of the enzyme complex formed)
+- $$k_1[E][A] = (k_{-1}+k_2)[E.A]$$
+- $$[E.A] = \frac{k_1[E][A]}{k_{-1}+k_2}$$
+- It's easy to see that this is the same as the earlier one except: $$k_m = \frac{k_{-1}+k_2}{k_{1}}$$
+- ![[Pasted image 20250822091455.png]]

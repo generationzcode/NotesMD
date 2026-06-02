@@ -1,0 +1,5 @@
+- Typically the drying rate varies as shown below:![[Pasted image 20250408084923.png]]
+- The constant rate period drying rate per unit area can be estimated using the following equations:
+- ![[Pasted image 20250408102517.png]]
+- If I'm being honest, I don't really understand the existence of the denominator in the first equation above(its for the mass flux). The numerator checks out all right...
+- The rate of drying is then ![[Pasted image 20250408184247.png]]

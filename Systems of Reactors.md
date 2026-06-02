@@ -1,0 +1,12 @@
+- The irreversible liquid reaction A+B-> C+D is to be done in 3 equal volume CSTRs. Temperature is constant
+- Volumetric flow rate is 10m^3 per hour, CA0=CB0=1.2 M
+- Rate equation => R_A = -3.5C_AC_B
+- Final conversion 75%
+- A parallel is at best just as good as a series network, not better
+- The hydrolysis of acetic anhydride was studied in a CSTR of volume 1800 CC at 25C. The reaction rate is $-R_A = 0.158C_A$
+- Find % conversion assuming constant density system
+- v = 582cc/min
+- CSTR volume 1800CC, 25C
+## Graphical solution of CSTRs in series
+- find the relation between volume reqd for CSTR and PFR for a constant density first order reaction
+- 

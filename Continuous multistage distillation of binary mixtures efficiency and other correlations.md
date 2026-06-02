@@ -1,0 +1,3 @@
+- Mccabe thiele and the tray by tray method give the number of ideal trays needed in a distillation column
+- [[Fenske's Method]]
+- 

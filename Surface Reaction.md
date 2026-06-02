@@ -1,0 +1,7 @@
+- After adsorption onto a surface, a substance is capable of reacting in several ways
+- Single site - the surface reaction may be a single site mechanism in which only the site on which the reactant adsorbed is involved in the reaction
+- an isomerisation can be written as: $$A.S \rightarrow B.S$$
+- Dual site: The surface reaction may be dual site, in which the adsorbed or chemisorbed reactant interacts with another site to form the product. EG. butanol into water and butene
+- Second dual site mechanism: It's the reaction between two adsorbed species on two different sites
+- Third dual site machanism: second dual site except the other species is adsorbed on a different type of vacant site
+- Eley rideal: adsorbed molecule and a molecule from the gas phase reaction

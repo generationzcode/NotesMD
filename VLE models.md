@@ -1,0 +1,53 @@
+## Margules 
+- $$\frac{G^E}{RT} = Ax_1x_2$$
+- $$ln\gamma_1 = Ax_2^2$$
+- $$ln\gamma_2 = Ax_1^2$$
+- ![[Pasted image 20250709105406.png]]
+- a graph of the activity coefficient against the mole fraction of species 1
+- a graph of the actual experimental data, showing the big issue wit margules fit:
+- ![[Pasted image 20250709105708.png]]
+## Redlich Kister
+- $$\frac{G^E}{RT} = x_1x_2(A+B(x_1-x_2))$$
+- $$ln\gamma_1 = (A+3B)x_2^2-4Bx_2^2$$
+- $$ln\gamma_2 = (A-3B)x_1^2+4Bx_1^2$$
+- so for the infinite fits:
+- $$ln\gamma_1^\infty = A-B$$
+- $$ln\gamma_2^\infty = A+B$$
+- clearly this is built for a non symmetrical graph. Very cool.
+## As a function of temperature
+- $$ln\gamma_1 = f(T)$$
+- $$ln\gamma_2 = f(T)$$
+- a way to find this function:
+- $$\frac{\delta ln\gamma_i}{\delta T}$$
+- Lets see what the above derivate is:
+- $$G = H-TS$$
+- $$\bar dG^E= \bar V_i^EdP-S^E_idT$$
+- expressing it in a different way:
+- $$\delta(\frac{G}{RT}) = \frac{1}{RT}dG-\frac{G}{RT^2}dT$$
+- $$\delta(\frac{G}{RT}) = \frac{VdP-SdT}{RT}-\frac{H-TS}{RT^2}dT$$
+- $$\delta(\frac{G}{RT}) = -\frac{H}{RT^2}dT+\frac{VdP}{RT}$$
+- Converting everything to partial molar excess quantities:
+- $$\frac{\delta (ln\gamma_i)}{\delta T} = -\frac{\bar H_i^E}{RT^2}$$
+- $$\frac{\delta (ln\gamma_i)}{\delta P} = \frac{\bar V_i^E}{RT}$$
+- This is since the partial molar excess gibbs free energy divided by RT is ln gamma_i $$\frac{\bar G_i^E}{RT} = ln\gamma_i$$
+- This tells us a lot. 
+- If we have the data at one temperature or pressure for the VLE, we can extrapolate ay another T or P with excess molar enthalpy or volume
+## Gibbs Duhem
+$$\frac{\delta M}{\delta T}_{P,M_i}dT+\frac{\delta M}{\delta P}_{T,M_i}dP - \sum x_idM_i = 0$$
+- something happened here then:
+- $$-\frac{H^E}{RT^2}dT+\frac {V^EdP}{RT}-\sum x_i\delta ln\gamma_i = 0$$
+- so to make sure the VLE data we have got, we check against the gibbs duhem relation to verify whether its "thermodynamically consistent". It's just plain wrong
+- $$\frac{G^E}{RT} = x_1ln\gamma_1+x_2ln\gamma_2$$
+- $$\delta \frac{G^E}{RT} = x_1\delta ln\gamma_1+x_2\delta ln\gamma_2+ln\frac{\gamma_1}{\gamma_2}dx_1$$
+- since we're taking a binary mixture into account in the above:
+- $$-\frac{H^E}{RT^2}dT+\frac {V^EdP}{RT}+ln\frac{\gamma_1}{\gamma_2}dx_1-\delta\frac{G^E}{RT} = 0$$
+- now we integrate:
+- $$-\int^{T_{x_1=1}}_{T_{x_1=0}}\frac{H^E}{RT^2}dT+\int^{P_{x_1=1}}_{P_{x_1=0}}\frac {V^EdP}{RT}+\int^1_0ln\frac{\gamma_1}{\gamma_2}dx_1-\int^{{x_1=1}}_{{x_1=0}}\delta\frac{G^E}{RT} = 0$$
+- since the gibbs free energy at x_1 = 1 and x_1 = 0 is 0, we can remove it from the equation entirely
+- $$-\int^{T_{x_1=1}}_{T_{x_1=0}}\frac{H^E}{RT^2}dT+\int^{P_{x_1=1}}_{P_{x_1=0}}\frac {V^EdP}{RT}+\int^1_0ln\frac{\gamma_1}{\gamma_2}dx_1 = 0$$
+- now take out parts of it for when you keep conditions isothermal or isobaric.
+- isothermal $$\int^{P_{x_1=1}}_{P_{x_1=0}}\frac {V^EdP}{RT}=\int^1_0ln\frac{\gamma_2}{\gamma_1}dx_1 \approx 0$$
+- since the left hand side is pretty much 0, negligible. It must be on the order of $10^{-2}$ or something similar. Just happens to be small because excess volume is hardly ever anything requiring attention
+- Now for isobaric $$\int^{T_{x_1=1}}_{T_{x_1=0}}\frac{H^E}{RT^2}dT = \int^1_0ln\frac{\gamma_1}{\gamma_2}dx_1$$
+- so it's way easier to check if data is thermodynamically consistent if it's isothermal since the LHS on the above does not turn to 0
+- NOTE: IT'S NOT JUST H^E, IT'S PARTIAL MOLAR EXCESS ENTHALPY, SO AX2^2 OR AX1^2 IF YOU'RE USING *THAT* DEFINITION OF EXCESS ENTHALPY

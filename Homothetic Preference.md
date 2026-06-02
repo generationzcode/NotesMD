@@ -1,0 +1,6 @@
+- if a consumer prefers (x_1,x_2) to (y_1,y_2) and for a positive scalar, t, prefers (tx_1,tx_2) to (ty_1,ty_2), then it is a homothetic set of prferences
+- I know I worded the above wrongly
+- Okay it also has something to do with the marginal rate of substitution.
+- It says the MRS must be constant along any ray from the origin (what does this mean?)
+- The MRS is how much of one good a consumer is willing to give up for another while staying at the same level of satisfaction. 
+- So no matter how far up you go in terms of volume of either good, the amount of the other good you'll give up for the one being considered will never change.

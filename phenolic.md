@@ -1,0 +1,21 @@
+- formed from phenol and formaldehyde reacting
+- contain novolak and resole type polymers
+- the reaction can be catalysed by acids or bases
+## Novolaks
+- ![[Pasted image 20250418162944.png]]
+- The above is the acid catalysed reaction
+- excess phenol used
+- hardener needed, eg. hexamine - they don't cure on their own - releases formaldeyde under heat to promote crosslinking(why?)
+- these are thermoplastic till cured
+- used in insulators, abrasives
+- This clearly shows the phenol having two possible formaldehydes possible to add in ortho and para position. However, this addition at two places occurs to low degree, resulting in largely linear molecules ==(in such type of polymerization, would you call this having a functionality of 2? since the monomer is a combination of formaldehyde and phenol, which would still signal a functionality of two, so I guess my question is more on whether the individual phenol and formaldehydes can be called monomers here)==
+- ![[Pasted image 20250418163425.png]]
+- The above mentioned mechanism and reaction comes under novolak phenolic resins
+## Resols
+- Alkaline cataylsed
+- ![[Pasted image 20250418163730.png]]
+- excess formaldehyde - negates the last statement I made about novolaks, causing a good amount of crosslinking
+- This, thus, cures on it's own
+- NaOH, NH4OH used as catalyst
+- used in laminates, coatings and varnishes, wood adhesives
+- good question - we use it as a liquid resin because the curing conditions are different to the ambient conditions in which we keep the resin

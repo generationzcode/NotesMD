@@ -1,0 +1,3 @@
+- I'd like to explain this, but a picture is more than enough:
+- ![[Pasted image 20260116235418.png]]
+- m is income, if you didn't guess by now

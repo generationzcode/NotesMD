@@ -1,0 +1,29 @@
+- These are polymer chains that have more than one type of monomer in them.
+- Lets take the example of 2 monomers, M1 and M2:
+- We have initiation of some kind
+- $$M_1\rightarrow \dot M_1$$
+- $$M_2\rightarrow \dot M_2$$
+- The possibilities of the radicals reacting are:
+- $\dot M_1+M_1$
+- $\dot M_1+M_2$
+- $\dot M_2+M_1$
+- $\dot M_2+M_2$
+- Their rates, respectively:
+- $K_{11}[\dot M_1][M_1]$
+- $K_{12}[\dot M_1][M_2]$
+- $K_{21}[\dot M_2][M_1]$
+- $K_{22}[\dot M_2][M_2]$
+- We need to get the radical concentration in terms of the monomer concentration, since we don't know the radical concentration
+- $$-\frac{d[M_1]}{dt} = k_{11}[\dot M_1][M_1]+k_{21}[\dot M_2][M_1]$$
+- $$-\frac{d[M_2]}{dt} = k_{12}[\dot M_1][M_2]+k_{22}[\dot M_2][M_2]$$
+- Dividing the above equations:
+- $$\frac{dM_1}{dM_2} = \frac{M_1(K_{11}[\dot M_1]+K_{21}[\dot M_2])}{M_2(K_{12}[\dot M_1]+K_{22}[\dot M_2])}$$ (Eq. 1)
+- we can assume that that $K_{12}[\dot M_1][M_2]$ and $K_{21}[\dot M_2][M_1]$ at steady state are equal since steady state
+- $$K_{12}[\dot M_1][M_2] = K_{21}[\dot M_2][M_1]$$
+- => $$[\dot M_1] = \frac{K_{21}[\dot M_2][M_1]}{K_{12}[M_2]}$$
+- Reactivity Ratios:$$r_1 = \frac{K_{11}}{K_{12}}$$
+- $$r_2 = \frac{K_{22}}{K_{21}}$$
+- Using these, we can simplify (Eq. 1): $$\frac{d[M_1]}{d[M_2]} = \frac{M_1(r_1[M_1]+[M_2])}{M_2([M_1]+r_2[M_2])}$$
+- if r_1=r_2=0 or around 0, you have alternating  copolymers
+- If r_1=r_2=1 you have a random copolymers
+ He is going to ask what are like structures of various initiators, half life of initiators on choice of them and stuff and concentration of initiators effect

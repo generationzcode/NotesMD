@@ -1,0 +1,8 @@
+- In a steady state system, ![[Pasted image 20250206115646.png]] where x is a variable
+- rate for a value of x that is not steady state, we use the taylor series: ![[Pasted image 20250206115731.png]]
+- This can also be written as ![[Pasted image 20250206115804.png]]
+- we define the deviation variable to be $$\bar x = x-x_s$$
+- so $$\frac{d\bar x}{dt}=\left(\frac{df}{dx}\right)_{x_s}\bar x$$
+- for more than one variable, you use a taylor series of more than one variable to linearize: ![[Pasted image 20250206120923.png]]
+- so in deviation variables will be ![[Pasted image 20250206121037.png]]
+- Why do we do a taylor expansion? We dot this, not to linearize, thats a byproduct, we do this mainly to get the function in terms of the deviation variable functions arent simply f(t) = f(t_s)+f(t_s+t_c) if t=t_c+t_s

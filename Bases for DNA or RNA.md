@@ -1,0 +1,7 @@
+- ![[Pasted image 20250731105203.png]]Pyrimidine
+- ![[Pasted image 20250731105217.png]]Uracil, 
+- ![[Pasted image 20250731105234.png]]Thymine,
+- ![[Pasted image 20250731105251.png]]Cytosine,
+- ![[Pasted image 20250731105305.png]]Purine, 
+- ![[Pasted image 20250731105318.png]]Adenine, 
+- ![[Pasted image 20250731105330.png]]Guanine

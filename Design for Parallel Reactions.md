@@ -1,0 +1,4 @@
+- Instantaneous fractional yield is the rate fraction
+- Overall yield is the component formed/ total moles reactant fed
+- Instantaneous selectivity - the rate of R formed/other products formed
+- 

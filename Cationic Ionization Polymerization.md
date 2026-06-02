@@ -36,5 +36,6 @@ I could be wrong. Don't kill me
 
 
 > crystallisivity - maximum rate of crystallisation a material is capable
-> crystallinity - maximum size of crystal that can form
+> crystallinity - percentage of crystal formed
+> crystalisability - 
 

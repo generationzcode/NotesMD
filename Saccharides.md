@@ -1,0 +1,7 @@
+- Glyceraldehyde: ![[Pasted image 20250729114723.png]]
+- Ribose: ![[Pasted image 20250729114809.png]]
+- Galactose: ![[Pasted image 20250729115934.png]]
+- Mannose
+- Fructose
+- Ribulose
+- Dihydroxyacetone

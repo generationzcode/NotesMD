@@ -1,0 +1,24 @@
+ - assuming the total number of active sites remains constant due to lack of poisoning, C_i = constant
+ -  site balance:
+ - $$C_t = C_v+C_{A.S}+C_{B.S}+...$$
+ - typically, the total concentration of sites = 10^22 sites/gmCat (maybe not... could be wrong, need to cross check this)
+ - Here we care about non reacting gases adsorbed onto a surface
+ - Two types of adsorption - molecular and dissociative adsorption
+ - looking at CO on metal adsorption
+ - $$R_{ad} = k_AP_{CO}C_v-k_{-A}C_{CO.S}...$$
+ - $$r_{AD} = k_A(P_{CO}C_v-\frac{k_{-A}}{k_A}C_{CO.S})$$
+ - $$r_{AD} = k_A(P_{CO}C_v-\frac{C_{CO.S}}{K_A})$$
+ - k_{-A} is the rate constant for dissociation
+ - Also, C_v is concentration of vacant sites
+ -  K_A is the adsorption equilibrium constant
+ - total sites:$$C_t=C_v+C_{CO.S}$$
+ - At equilibrium the net rate of adsorption is zero, obviously when equilibrium is reached, the rates on both sides are equal.
+ - $$P_{CO}C_v - \frac{C_{CO.S}}{K_A} = 0$$
+ - =>$$C_{CO.S} = K_AP_{CO}C_v$$
+ - => $$C_t=C_{CO.S}+C_v$$
+ - =>$$C_t = C_v(1+K_AP_{CO})$$
+ - =>$$C_v = \frac{C_t}{1+K_aP_{CO}}$$
+ - =>$$C_{CO.S} = \frac{K_AP_{CO}C_t}{1+K_AP_{CO}}$$
+ - The above is the langmuir isotherm
+ - Ok to understand this, lets tend $P_{CO}$ to infinity and see what pops out, we use L'Hospital and we get $C_{CO.S} = C_t$
+ - plot of P_{CO}/C_{CO.S} VS P_{CO} should yield a straight line for langmuir site isotherm

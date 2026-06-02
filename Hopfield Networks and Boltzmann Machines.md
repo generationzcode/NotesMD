@@ -1,0 +1,23 @@
+- Every neuron is connected to every other neuron here
+- hebbian type learning
+- weights symmetric both sides
+- each HN has neurons, weights and states (a value between 0 and one -1 to 1)
+- Ok its just to store stuff and pattern matching
+- Big on associative learning
+- we can take an example of a picture of a cat (training data), then an incomplete picture of that cat, the network will complete the picture
+- Each neuron in that example is both an input AND an output
+- the state of the neuron indicates the information in it
+- The state of a hopfield neuron is updated by summing up all the weights and the state of the neurons around it and if the sum is more than the threshold, the state is 1, if not the state is 0
+- As clearly will have come to the reader by now - the above poses a technical challenge - it's basically the gauss seidel method for who knows how many variables
+- Two ways they update units - synchronous (all at once) and asynchronous (one at a time, randomly chosen, maybe not)
+- the energy of the network: $$E=-1/2 * \sum\sum W_ijS_iS_j+\sum T_iS_i$$
+- The above is to be minimized to find stable states. Till then the units are updated over and over again
+- Neurons don't have their own weights
+- weights initialized by w_ij = w_ij+x_ix_j for all the patterns to be stored, then normalized
+## Boltzmann Machines
+- hopfield networks with hidden cells
+- RBMs are BMs that are bipartite graphs of nodes (hidden nodes and visible nodes only connect with each other nothing else)
+- these run on a positive phase and a negative phase
+- positive phase clamps or fixes the values of the states in the visible cells and find the hidden cell states through annealing by increasing the temperature, changing their state, finding the probability of that change occurring, acting on that change if the probability falls through, slowly decreasing the temperature till the probabilities allow random changes to occur less frequently. This allows the system to find global minimum
+- In the negative phase, this occurs without clamping down the visible cells
+- I may be wrong with BMs, please someone IM me if Im wrong

@@ -1,0 +1,14 @@
+
+- ## Tray by Tray method
+- Define degree of separation
+- Assume reflux ratio - use underwood method for approximation
+- Calculate top and bottom flow rates by overall material balance
+- Start with bottom more fraction of liquid, x_W that we want to achieve
+- Assume some temperature between less volatile and more volatile components
+- Calculate P^sat for each component using antoine equation
+- Calculate the total pressure, the value must be equal to the column pressure
+- Use goal seek to get this pressure by changing temperature
+- calculate activity coefficients for non ideal mixtures using suitable thermodynamic model
+- Calculate mole fraction of vapour in equilibrium with x
+- calculate mole fraction of liquid
+- repeat

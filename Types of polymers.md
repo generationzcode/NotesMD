@@ -1,7 +1,7 @@
 #polymers Rubbers, Plastics and Resins
 
 * Plastic - you can easily melt and process plastic and is usually given in pellet form. Mostly thermoplastic
-* Resin - may be in the form of liquid or powder. Cure The granules are added then wetting agent then powder at the end. The wetting agent isn't added in the end because this would cause the powder to be clumped up togetherd then never can be reprocessed. Mostly thermoset
+* [[Resin]] - may be in the form of liquid or powder. Cure The granules are added then wetting agent then powder at the end. The wetting agent isn't added in the end because this would cause the powder to be clumped up togetherd then never can be reprocessed. Mostly thermoset
 
 * Engineering, specialty and commodity polymers fall under plastics
 

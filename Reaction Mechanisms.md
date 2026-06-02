@@ -1,0 +1,2 @@
+- when the rate of formation of the intermediates is 0, you can get the reaction rate from a mechanism
+- 

@@ -1,4 +1,4 @@
-> Mccabe smith is good for this subject, so is richardson and coulson, BK dutta is easy
+> Mccabe smith is good for this subject, so is richardson and coulson, treybal too
 
 * Prereqs - Mathematics, material and energy balance, [[Engineering thermodynamics]] and [[Fluid mechanics]]
 * "Chemical engineering is a study of a group of industrial processes in which raw materials are converted into useful products"
@@ -52,9 +52,9 @@
 
 LMCD is the log mean concentration difference which is analogous to the LMTD In [[Heat Transfer]]
 ## Unit operations
-* [[Distillation]] - you distill stuff - phillip wankert
-* [[Absorption]] - you absorb stuff
+* [[Distillation]] - you distill stuff 
+* [[Absorption]] - you absorb stuff 
 * [[Filtration]] - you filter stuff 
-* [[Sedimentation]] - you sediment stuff
-* [[Drying]] - you dry stuff
-* [[Particle Size Reduction]] - you cut up stuff
+* [[Sedimentation]] - you sediment stuff 
+* [[Drying]] - you dry stuff 
+* [[Particle Size Reduction]] - you cut up stuff 

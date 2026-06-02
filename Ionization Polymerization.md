@@ -1,4 +1,4 @@
-do you seriously have a humiliation fetish ? Just because Maharashtra and marathi people do not enforce strict policies on language politics does not give you the right to abuse its origins , you are radicalizing the actual nice people who wouldn't have cared#polymers 
+#polymers 
 ## Introduction
 * Like radical, except, no radical - ion used instead. The chain in ionization polymerization propagates faster and due to the ions reacting with monomers forming ions at the terminal area
 * Each ion has a counter ion and the rate of polymerization is dependent on the solvation of this counter ion

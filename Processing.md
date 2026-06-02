@@ -1,4 +1,20 @@
 #polymers
+
+
+## Batch Processing Techniques
+- [[Compression Molding]] - Used in [[Thermoset]] plastics and a few [[Thermoplastics]]
+- [[Injection molding]] - at low volume, its batch
+- [[Reaction Injection Molding]] - injection molding but there's a reaction
+- [[Resin Transfer Molding]] - Resin injected into a mold containing reinforcement fibers, handlayup is the manual, open mold way of doing this
+- [[Rotational Molding]] - rotational figures
+- [[Casting]] - first thing that comes to mind
+## Continuous Processing Techniques
+- [[Processing#Extrusion]] - extrusion, I've written a good deal on this below
+- [[Blow Molding]] - used to make hollow parts
+- [[Calendaring]] - extrusion but for films
+- [[Thermoforming]] - heated sheets stretched over a mold
+- [[Pultrusion]] - Fibers pulled through a resin bath to form composites
+# Stuff I wrote before
 * You process a polymer at it's processing temperature. In case of polymers the processing temperature is above it's melting temperature
 * To reduce the resistance of the material, you need to increase the temperature above the melt temperature to reduce viscosity. Generally about 10C higher than melting point
 * Polymer processing is done for application, study of properties and to reduce the cost of a compound by adding a filler or use a cheaper material along with the polymer
@@ -53,3 +69,8 @@
 >Distributing mixing: distributes small particles
 >Dispersive mixing: dispereses big particles
 
+-  A complex product is something where the material flow is complex
+- Injection molding is the most accurate way to deal with complex geometry
+- Injection molding has the same type of machine as extrusion , except the screw length is less than the barrel length so it can move forward and backward
+- Theromoforming - make the plastic soft then make imprints, you heat it above the T_g. HIPS,PE,PP used
+- Rotomolding - 

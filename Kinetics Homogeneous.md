@@ -44,4 +44,5 @@ A homogeneous reaction is a reaction where all reactants are of the same phase
 * After this whedon with this easy af chapter
 * ![[Pasted image 20241011142441.png]]
 * A rough idea of how it goes
+* [[Reaction Mechanisms]]
 * 

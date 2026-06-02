@@ -1,0 +1,6 @@
+- to curve fit experimental data, you must have a model
+- use the model, get the error sum or squares
+- optimize to minimize the error
+- once the answer has arrived, use the shapiro wilks normality test to make sure the curve is normal or not. Make sure the p value is above 0.05
+- After this you also bootstrap the data and redo your whole process and get estimates from the 1000 or so bootstrapped samples you create - which are experiments by themselves
+- I'll put the code and the plot here later

@@ -1,0 +1,14 @@
+## Van Laar
+- $$\frac{G^E}{RT(x_1q_1+x_2q_2)} = 2(\alpha_{12}Z_1Z_2)$$
+- $$Z_i = \frac{x_iq_i}{\sum{x_iq_i}}$$
+- where q is molar volume of liquid
+- This also satisfies gibbs duhem equation
+- To get $ln \gamma_i$, you need to multiply G^E with total moles and differentiate wrt moles of certain species
+- $$ln \gamma_1 = \frac{2\alpha_{12}q_1q_2^2x_2^2}{(x_1q_1+x_2q_2)^2}$$
+- also written as:
+- $$\alpha = 2\alpha_{12}q_1$$
+- $$\beta = 2\alpha_{12}q_2$$
+- $$ln \gamma_1 = \frac{\alpha}{(1+\frac{\alpha x_1}{\beta x_2})^2}$$
+- $$ln \gamma_1 = \frac{\beta}{(1+\frac{\beta x_2}{\alpha x_1})^2}$$
+- ![[Pasted image 20250714094914.png]]
+- 

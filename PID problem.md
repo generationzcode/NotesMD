@@ -1,0 +1,7 @@
+- $$C(s) = \frac{G_cG_vG_p}{1+G_cG_vG_pH}\bar R(s)+\frac{G_L}{1+G_cG_vG_pH}\bar d(s)$$
+- The first is the servo function and the second is the regulatory function
+- C(s) is equal to $\alpha(s)/p(s)$
+- A positive root to the laplace transform will cause the output to be unbounded, which is unacceptable
+- If the root is negative, the output will now be bounded since the exponential function has a negative exponent. The response, over time will be stable
+- If the real part of a complex root is positive, system is unstable
+- 

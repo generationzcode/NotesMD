@@ -5,7 +5,7 @@
 >[!Quote]
 >“Perhaps I'm old and tired, but I always think that the chances of finding out what really is going on are so absurdly remote that the only thing to do is to say hang the sense of it and just keep yourself occupied.”— Douglas Adams, The Restaurant at the End of the Universe
 
-After midems - we're looking at mixtures, so we want to find the entropy, enthalpy, G,etc for mixtures. To find all this, we need to find the pure component property and change due to mixing
+After midsems - we're looking at mixtures, so we want to find the entropy, enthalpy, G,etc for mixtures. To find all this, we need to find the pure component property and change due to mixing
 
 There are two parts to this course:
 * One part for a singular equation to not need mollier diagrams or steam tables
@@ -35,3 +35,14 @@ There are two parts to this course:
 * [[entropy-arjun]] - my thoughts on it, the balance equations and all are in [[Entropy]]
 * [[Real Fluids]] - a lot of thoughts on it, building on what was taught in class. Just stuff I couldn't understand, I really want to solve problems on this, alas time does not permit
 * [[Simple Equilibrium]] - I'll study some process safety then I'll get back to thermo
+
+## Engineering Thermodynamics 2
+> more stuff
+
+- [[Revision of Distillation]] - really didn't understand this entirely the first time I guess.
+- [[VLE revision]] - maybe not i don't know...
+- [[VLE models]] - you get the activity coefficients from these
+- [[More VLE models]] - stuff I couldn't fit above
+- [[Azeotropes]]
+
+## [[A third attempt]] (hopefully final)

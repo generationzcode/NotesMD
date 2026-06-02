@@ -7,7 +7,7 @@ Don't ask. I dont know
 * This is only applicable to ideal mixtures
 * $$\bar{f_i}^V=y_if_i^V$$
 * For real mixtures:
-* $$\bar{f_i}^V=\gamma_iy_if_i^V$$
+* $$y_i{f_i}^V=\gamma_ix_if_i^L$$
 * gamma is the activity coefficient
 * gamma * y_i is the activity
 Now we doeth problems
@@ -25,11 +25,8 @@ And number of equilibrium relationships is (P-1)c
 > After the end semester, it's OK to forget everything in this class. 
 > The only things to remember are the following
 > ![[Pasted image 20241010114229.png]]
-
->[!Danger]
->DONT FORGET EVERYTHING BEFORE EXAM THOUGH. Unless you have a girlfriend. Then toh life sort
-
-
+- $$y_iP\Phi_i = x_i\gamma_iP^{sat}_i\Phi^{sat}_iexp(\frac{V_i^{L}(P_i-P_i^{sat})}{RT})$$
+- 
 
 
 ## Problems

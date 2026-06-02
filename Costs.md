@@ -1,0 +1,3 @@
+- Costs are divided into fixed and variable
+- [[Variable Costs]] make up the costs of stuff that is being consumed *as* the product is being manufactured
+- [[Fixed costs]] make up the costs that remain the same annually regardless of how much you're manufacturing

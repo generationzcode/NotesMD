@@ -18,3 +18,4 @@
 * Different types of single phase and multiphase reactors
 ## The actual content
 * [[Chemical Reaction Engineering]] - Did some stuff here
+* [[Industrial Chemistry]] - the descriptive part

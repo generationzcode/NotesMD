@@ -1,0 +1,9 @@
+- Removal of salts and water from crude. Particularly important with the heavier crudes. 
+- ![[Pasted image 20251108143139.png]]
+- The sats may form fine deposits later or be hydrolyzed to make HCl, which is corrosive
+- A two stage desalter
+- ![[Pasted image 20251108143250.png]]
+- High voltage electric fields can be used to induce coalescence in water droplets to increase the terminal velocity 
+- 3 to 10% volume water at 90 - 150 C
+- High pH can lead to emulsions forming, stabilizing the particles and colloids. This means they won't settle and extraction won't take place. To counter this, pH is usually kept below 8
+- 

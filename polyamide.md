@@ -1,0 +1,7 @@
+- caprolactum is the monomer for polyamide 6
+- polyamide 66 uses adipic acid and hexamethylene diamine
+- for polyamide 68 or 610, you use sebasic acid (10 carbon ring) and hexamethylene diamine
+- aliphatic polyamides (polyamide 6 and 66) are weaker and less thermally stable as compared to aromatic polyamides
+- ![[Pasted image 20250306135822.png]]
+- moisture acts as a plasticizer to polyamides
+- polyamide 66 is used in composite materials

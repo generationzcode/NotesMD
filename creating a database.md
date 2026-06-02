@@ -1,0 +1,6 @@
+- `createdb myDB`
+- if it gives an error on the command, it means postgreSQL wasn't installed proper
+- we can always call it from it's original place
+- YOU NEED TO MAKE A POSTGRESQL ACCOUNT TO WORK THIS
+- remove a DB using `dropdb myDB`
+- 

@@ -1,0 +1,17 @@
+- will have a solid phase, liquid phase and a vapour phase
+- since there are three phases, instead of a plane of contact, you have a line of contact
+- ![[Pasted image 20250227113821.png]]
+- the above is youngs equation
+- teflon is a low energy surface and thus it makes the pan non stick because it doesn't adsorb anything
+- SV - solid vapour, SL - solid liquid, LV = Liquid Vapour
+- Work of hydration between solid and liquid = $\gamma_{SV}+\gamma_{LV}-\gamma_{SL}$
+- => $\gamma_{LV}+\gamma_{LV}cos\theta$
+- this shows that contact angle is related to work of hydration, thus surface angle is a thermodynamic property
+- If the contact angle is 180, the liquid rolls off the surface and is called superhydrophobicity
+- the solid vapour interface is made by adsorption of vapour on the solid surface - forming interactions and such
+- $\gamma_S-\gamma_{SV} = \pi_{SV}$ (film pressure)
+- So now we introduce the film pressure to the equation:
+- $$\gamma_{S}-\pi_{SV} = \gamma_{SL}+\gamma_{LV}cos\theta$$
+- if the contact angle is more than 90 degrees, it is non wetting
+- if the contact angle is less than 90 degrees, it is wetting
+- for any solid surface, when costheta is 1, it is the critical surface tension

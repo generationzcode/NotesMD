@@ -1,0 +1,6 @@
+- Phosphate esters can form between phosphate and hydroxyl group
+- ![[Pasted image 20250729114015.png]]
+- The phosphate structure
+- ![[Pasted image 20250729114033.png]]
+- Acid+phosphate gives anhydride
+- and this is somehow linked to ATP and ADP

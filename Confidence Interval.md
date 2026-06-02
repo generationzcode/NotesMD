@@ -1,0 +1,6 @@
+- You have a model, say $\hat y = \frac{\hat b_0 x}{\hat b_1+x}$
+- You get the standard error of the function, square root it
+- CI = \hat y+-1.96SE(x)
+- PI has the above but the SE has a variance term added to it
+- The confidence interval is for the mean of the data collected
+- The prediction interval is for the actual data collected

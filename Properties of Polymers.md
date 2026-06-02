@@ -1,4 +1,6 @@
-#polymers 
+mmm#polymers 
+- [[environmental aspects of polymers]]
+
 * Polymers are always covalently bonded
 * With high inductive effect, low molar mass molecules are liberated as the electronegative group abstracts hydrogen from the carbon
 * Primary bonding - covalent and ionic
@@ -7,7 +9,7 @@
 * Conformation - this is related to the rotation of the bonds
 * Tacticity - relating to the stereochemistry of repeating units
 * Tacticity - isotacticity, atacticity and syndiostereotacticity
-* ![[Pasted image 20240927093303.png]]
+* ![[Pasted image 20250130141754.png]]
 * The above is isotactic
 * Glass transition temperature - when you heat the polymer, there is a transition phase, called glass transition. Mostly polymers are semicrystalline or amorphous - glass transition is when the polymer is in amorphous state. The lower this temperature, the more flexible the polymer is. Used in thermoplastic. Above $T_g$, polymer is flexible and below it it is glassy. $T_g$ is the temperature below which the polymer is mostly rigid
 * Tg causes a second order phase change
@@ -28,7 +30,8 @@
 * in conformation you have gauch, trans and eclipsed
 * isotactic means that if it's arranged in a regular pattern
 * in polymerization there are three types of configuration - cis or trans - cis will give better machanical properties - also called diene polymerization, strereoregularity - tacticity, configuration based on structure - head to head, tail to tail or head to tail
-* head to head and tail to tail dont occur much, mostly head to tail
+* head to head and tail to tail dont occur much, mostly head to tail, cis and trans configuration
+* PE, PET, etc are semi-crystalline
 ## Mechanical Properties
 * Tg more flexible above. Dis be'eth a mechanical property
 ## Structural Properties
@@ -43,4 +46,3 @@
 * because of the crosslinking, the molecules are difficult to separate and the energy barrier to combustion comes before it can melt
 * thermosets are usually hard and brittle
 * thermosets are more dense
-* 

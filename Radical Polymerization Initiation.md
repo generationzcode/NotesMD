@@ -1,6 +1,8 @@
 #polymers 
 The first step of radical polymerization
 * You cant have free radicals in polymer chains without these initiators. Basically these initiators (not related to the monomers usually) are engineered to break away from a part of their molecule (by breaking their bond homolytically - giving one electron back to each member of the bond) to generate a free radical
+* Peroxide initiators are: benzoyl peroxide, hydrogen peroxide
+* Azo initiator example: azo-bisisobutyronitrile
 ## Types of Initiators with Examples
 ### Homolysis
 When it get hot, they break!!
